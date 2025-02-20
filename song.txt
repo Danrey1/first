@@ -11,3 +11,7 @@ dodododo
 another lesson
 
 contant to be stashed
+
+this words are for commit in feature
+second commit
+
